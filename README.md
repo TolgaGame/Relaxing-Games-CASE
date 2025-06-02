@@ -25,3 +25,10 @@ A simple, soothing game built in Unity to help players unwind. This project foll
 ## License
 
 This project is licensed under the MIT License.
+
+---
+
+## GAMEPLAY VIDEO
+
+https://github.com/user-attachments/assets/4f05d64b-80db-497a-9076-988d00f52eea
+
