@@ -1,5 +1,5 @@
 # Relaxing-Games-CASE
-Mini Games Gleam Games CASE
+Mini Games
 
 # Unity Mini Anti‑Stress Relaxing Game
 
